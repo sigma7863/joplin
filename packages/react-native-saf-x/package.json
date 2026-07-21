@@ -44,7 +44,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@babel/core": "7.16.0",
+    "@babel/core": "7.29.6",
     "react": "19.1.5",
     "react-native": "0.81.6",
     "typescript": "5.9.3"
